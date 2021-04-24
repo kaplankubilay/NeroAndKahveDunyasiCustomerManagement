@@ -20,7 +20,7 @@ namespace NeroAndKahveDunyasiCustomerManagement.Concrete
 
 
         /// <summary>
-        /// Save metodunu burada override edebiliriz bunun yanısıra mernis doğrulaması isteyen starbncks için bu noktada mernis doğrulaması da yapılabilir.
+        /// Save metodunu burada override edebiliriz bunun yanısıra mernis doğrulaması isteyen starbncks için bu noktada mernis doğrulaması da yapılabilir..
         /// </summary>
         /// <param name="customer"></param>
         public override void Save(Customer customer)
